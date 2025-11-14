@@ -95,13 +95,3 @@ The model is a sequential neural network with the following layers:
  **The trained model achieves a test accuracy of approximately 93%.**
 
  **The model effectively distinguishes spam from non-spam SMS messages.**
-
-## Suggestions for Improvement
-
- - Add a sample input/output section to show how predictions are made.
-
- - Add data preprocessing steps in the README for clarity (tokenization, padding, stopwords removal).
-
- - Consider including confusion matrix or precision/recall metrics for a better understanding of model performance.
-
- - Include instructions on saving and loading the trained model for future inference.
